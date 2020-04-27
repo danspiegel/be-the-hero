@@ -4,6 +4,6 @@ Aplicação para cadastramento de ONGs e incidentes, além de uma interface mobi
 
 ### Tecnologias Utilizadas
 
-Back-End: Node.js, Express.js, SQLite
-Front-End: React.js
-Mobile: React Native
+* **Back-End:** Node.js, Express.js, SQLite
+* **Front-End:** React.js
+* **Mobile:** React Native
